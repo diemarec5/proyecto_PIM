@@ -8,7 +8,24 @@ Descripción:
 
 Proyecto intermodular sobre las alarmas inteligentes
 
-Contenido
+Contenido:
 
 Documentación del proyecto
 
+Temporalización
+
+Presentación
+
+Herramientas utilizadas:
+
+LibreOffice Writer
+
+Excel
+
+Presentaciones de Google
+
+Miro
+
+Estado del proyecto:
+
+Proyecto finalizado
